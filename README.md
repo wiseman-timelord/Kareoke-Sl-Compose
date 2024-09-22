@@ -12,10 +12,31 @@ It enables, automatic audience mute when video played and intelligent mixing of,
 - **Distro Management**: Allows users to select and switch WSL Linux distributions easily.
 - **Persistent Settings**: Saves and loads user configurations, such as selected distro and audio settings.
 
-### Remaining Work:
+### PREVIEW:
+- End of Session 1...
+```
+= * 120
+    Kareoke-Sl-Compose
+= * 120
+
+    1. Run Kareoke-Sl-Compose.
+
+    2. Change Linux Distro Used.
+     (Currently Selected Distro: )
+
+    3. Setup and Installer.
+
+= * 120
+Selection; Menu Options = 1-3, Exit Program = X:
+
+```
+
+
+## DEVELOPMENT:
 Some features and configurations require completion, particularly in terms of user interaction and distro management. Below is a list of remaining tasks:
 - **Video File Selection**: Implement file selection for karaoke videos in the GUI.
 - **Error Handling**: Improve error detection and handling in the installer and audio routing modules.
 - **Distro Switching Validation**: Ensure robust handling when switching between WSL distros.
 - **Pre-Launch Configuration**: Expand the configuration options available before launching the karaoke session.
 - **Testing and Debugging**: Perform comprehensive testing across different WSL distros and Windows configurations. 
+
