@@ -21,8 +21,8 @@ It enables, automatic audience mute when video played and intelligent mixing of,
 
     1. Run Kareoke-Sl-Compose.
 
-    2. Change Linux Distro Used.
-     (Currently Selected Distro: )
+    2. Change Wsl Distro Used.
+     (Current: **distro-name**)
 
     3. Setup and Installer.
 
