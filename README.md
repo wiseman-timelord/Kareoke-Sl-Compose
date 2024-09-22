@@ -2,7 +2,10 @@
 Status : Alpha, not working
 
 ### Concise Description:
-It enables, automatic audience mute when video played and intelligent mixing of, video and mic, streams, its for kareoke over voip. The `Kareoke-Sl-Compose` project provides an interactive karaoke experience on **Second Life** using **WSL2 on Windows**. It handles audio routing, video playback, and user settings through a graphical interface and command-line tools.
+Its for kareoke over voip; the `Kareoke-Sl-Compose` project provides an interactive karaoke experience on **Second Life** using **WSL2 on Windows**. It handles audio routing, video playback, and user settings through a graphical interface and command-line tools It will enables... 
+1. Automatic audience mute when video playing.
+2. Intelligent mixing of video + mic, streams.
+3. Processing of video/mic levels, to being automatically optimal, with the users voice just a little louder than the music level, which should be automatic and re-assessed upon ongoing basis, while somehow smoothed out. over long period for music and shorter period for the mic input, for the average.
 
 ### Features:
 - **Audio Routing**: Manages sound input/output via PulseAudio, including virtual sinks and dynamic muting for Second Life.
