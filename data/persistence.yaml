@@ -1,0 +1,5 @@
+# File: .\data\persistence.yaml
+
+video_folder: /home/user/Videos/Karaoke
+mic_volume: 50
+second_life_volume: 50
